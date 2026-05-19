@@ -1,0 +1,6 @@
+{
+  "name": "Nebula Homepage",
+  "description": "A refined, customizable browser dashboard with a central search bar, animated app dock, and bookmark management (Single-file offline edition).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
