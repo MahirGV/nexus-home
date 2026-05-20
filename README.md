@@ -6,9 +6,9 @@ This application is a refined, customizable browser dashboard designed for speed
 
 To get your own offline copy for your browser:
 
-### 1. Export from AI Studio
-- Open the **Settings** menu in the top right of AI Studio.
-- Click **Export to ZIP** or **Export to GitHub**.
+### 1. Export from GitHub
+- clone repository ```git clone https://github.com/MahirGV/nexus-home.git ```
+- Click **Install ZIP**
 
 ### 2. Build the Single File
 Once you have the code on your computer:
